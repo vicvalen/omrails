@@ -11,6 +11,8 @@
 // about supported directives.
 //
 //= require jquery
+//= require jquery.masonry.pkgd.min.js
+//= require imagesloaded.pkgd.min.js
 //= require jquery_ujs
 //= require bootstrap 
 //= require turbolinks
