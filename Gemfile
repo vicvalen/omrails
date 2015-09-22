@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+#paperclip
+gem "paperclip", "~> 4.3"
 #mejorar los formatos de las formas
 gem 'simple_form'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
