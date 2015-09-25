@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+#bootstrap for will paginate
+gem 'will_paginate-bootstrap'
+#will paginate
+gem 'will_paginate', '~> 3.0.6'
 #paperclip
 gem "paperclip", "~> 4.3"
 #mejorar los formatos de las formas
